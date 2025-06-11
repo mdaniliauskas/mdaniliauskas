@@ -1,0 +1,24 @@
+# Pasta de arquivos de apoio (CVs, análises, rascunhos)
+Apoio/
+
+# Ignorar todos os arquivos HTML
+*.html
+
+# Ignorar arquivos PDF
+*.pdf
+
+# Ignorar arquivos de texto simples
+*.txt
+
+# Manter apenas arquivos README na raiz
+!README.md
+!README-EN.md
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos temporários
+*~
+*.tmp
+*.bak
