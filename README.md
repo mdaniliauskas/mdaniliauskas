@@ -5,6 +5,7 @@
 [![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)](#) [![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)](./README-EN.md)
 
 ![Banner](https://img.shields.io/badge/Back--End%20Developer-Professional-informational?style=for-the-badge&logo=github&logoColor=white&color=0A66C2)
+![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge)
 
 **Desenvolvedor Back-End apaixonado por criar APIs escaláveis, seguras e de alta performance**  
 🎯 **Buscando oportunidades para impulsionar negócios com tecnologia**
@@ -82,6 +83,34 @@
 
 ## 🏆 Projetos em Destaque
 
+### 🌟 [Acessibilidade Dev - TCC FATEC](https://github.com/acessibilidadedev) ⭐ **PROJETO PRINCIPAL**
+**🏆 Trabalho de Conclusão aprovado com destaque pela banca examinadora**
+
+#### 🔧 [Backend API - Node.js](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
+**Node.js | Express | Prisma ORM | PostgreSQL | OpenAI GPT-3**
+- **🤖 Chatbot IA pioneiro**: Integração ChatGPT especializado em acessibilidade (2023)
+- **🏗️ Arquitetura escalável**: API REST com clean architecture e padrões enterprise
+- **👥 Squad Development**: 5 desenvolvedores com metodologia ágil
+- **📊 Deploy production**: Heroku com otimizações performance
+
+#### ⚛️ [Frontend React - Interface Inclusiva](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)  
+**React | Vite | Chakra UI | Context API | WCAG 2.1**
+- **♿ UX Inclusivo**: Interface 100% acessível seguindo diretrizes WCAG
+- **🎨 Design System**: Componentes reutilizáveis e tema consistente
+- **📱 Mobile-first**: Responsividade otimizada para todos dispositivos
+- **⚡ Performance**: Lighthouse score 90+ em acessibilidade
+
+#### 🔥 [Chat Real-time - Firebase](https://github.com/mdaniliauskas/Chat_Firebase)
+**React | Firebase Realtime Database | Context API**
+- **💬 Comunicação real-time**: WebSocket nativo com Firebase
+- **🛡️ Segurança avançada**: Rate limiting e sanitização de conteúdo
+- **📊 Analytics integrado**: Métricas de engajamento e performance
+- **♿ Acessibilidade total**: Chat inclusivo para pessoas com deficiência
+
+> **🎯 Diferencial**: Único TCC com **ChatGPT especializado** + **impacto social** + **padrão enterprise**
+
+---
+
 ### 🔐 [Sistema de Validação de Cartões](https://github.com/mdaniliauskas/valida-bandeira-cartao)
 **Java | Orientação a Objetos | Padrões de Design**
 - Sistema para validação de bandeiras de cartão de crédito
@@ -149,28 +178,35 @@
 ## 💼 Experiência Profissional
 
 ### 🏢 **Vivo / Telefônica** *(3+ anos)*
-**Analista de Sistemas & Desenvolvedor Back-End**
-- Integração de sistemas corporativos complexos
-- Análise e modelagem de processos de negócio
-- Trabalho em equipes ágeis e multidisciplinares
-- Desenvolvimento de soluções de TI para telecomunicações
-- Otimização de workflows e automação de processos
+**Analista de Sistemas & Desenvolvedor** 
+*Progressão: Estágio → Júnior/Analista | Maior operadora de telecomunicações do Brasil*
+
+- **Sistemas de TI críticos** suportando infraestrutura de telecomunicações nacional
+- **Redução significativa de incidentes** através de análise de causa raiz e automações
+- **Ponte entre TI e Negócio** - P&D de projetos, alinhamentos entre áreas
+- **Consultor interno** para implementações de melhorias e novos sistemas
+- **Otimização de processos** com metodologias Lean Six Sigma e Python/SQL
+- **Transição de carreira**: Buscando retorno ao desenvolvimento Backend (Java/Python)
 
 ---
 
 ## 🌟 Impacto & Realizações
 
 ### 📊 **Métricas Técnicas**
+- **🏆 TCC Premiado**: Acessibilidade Dev aprovado com destaque (FATEC)
+- **🤖 Inovação IA**: ChatGPT especializado em acessibilidade (pioneirismo 2023)
+- **👥 Liderança técnica**: Squad de 5 desenvolvedores com metodologia ágil
 - **57+ repositórios** públicos ativos
 - **139 seguidores** na comunidade GitHub
 - **Achievement Pull Shark** - Contribuições consistentes
-- **Projetos multi-linguagem** demonstrando versatilidade
 
 ### 🎯 **Diferenciais Competitivos**
-- **Evolução demonstrável**: Do HTML básico ao full-stack moderno
-- **Experiência real**: 3+ anos em empresa Fortune 500
-- **Formação sólida**: Doutorado + especialização técnica
-- **Visão global**: Experiência internacional e multilíngue
+- **🎓 Projeto acadêmico real**: TCC com impacto social e qualidade enterprise
+- **♿ Responsabilidade social**: Tecnologia para inclusão de pessoas com deficiência
+- **🏗️ Arquitetura robusta**: APIs escaláveis com padrões de mercado
+- **🤝 Trabalho em equipe**: Experiência comprovada em desenvolvimento colaborativo
+- **🌐 Experiência internacional**: Vivência global e multilíngue
+- **📈 Evolução demonstrável**: Do HTML básico ao full-stack moderno
 
 ---
 

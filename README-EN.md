@@ -5,6 +5,7 @@
 [![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)](./README.md) [![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)](#)
 
 ![Banner](https://img.shields.io/badge/Back--End%20Developer-Professional-informational?style=for-the-badge&logo=github&logoColor=white&color=0A66C2)
+![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge)
 
 **Backend Developer passionate about building scalable, secure, and high-performance APIs**  
 🎯 **Seeking opportunities to drive business growth through technology**
@@ -82,6 +83,34 @@
 
 ## 🏆 Featured Projects
 
+### 🌟 [Acessibilidade Dev - FATEC Capstone Project](https://github.com/acessibilidadedev) ⭐ **MAIN PROJECT**
+**🏆 Capstone project approved with distinction by the examining board**
+
+#### 🔧 [Backend API - Node.js](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
+**Node.js | Express | Prisma ORM | PostgreSQL | OpenAI GPT-3**
+- **🤖 Pioneer AI Chatbot**: ChatGPT integration specialized in accessibility (2023)
+- **🏗️ Scalable architecture**: REST API with clean architecture and enterprise patterns
+- **👥 Squad Development**: 5 developers using agile methodology
+- **📊 Production deployment**: Heroku with performance optimizations
+
+#### ⚛️ [React Frontend - Inclusive Interface](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)  
+**React | Vite | Chakra UI | Context API | WCAG 2.1**
+- **♿ Inclusive UX**: 100% accessible interface following WCAG guidelines
+- **🎨 Design System**: Reusable components and consistent theming
+- **📱 Mobile-first**: Responsive optimization for all devices
+- **⚡ Performance**: Lighthouse score 90+ in accessibility
+
+#### 🔥 [Real-time Chat - Firebase](https://github.com/mdaniliauskas/Chat_Firebase)
+**React | Firebase Realtime Database | Context API**
+- **💬 Real-time communication**: Native WebSocket with Firebase
+- **🛡️ Advanced security**: Rate limiting and content sanitization
+- **📊 Integrated analytics**: Engagement and performance metrics
+- **♿ Full accessibility**: Inclusive chat for people with disabilities
+
+> **🎯 Differential**: Only capstone project with **specialized ChatGPT** + **social impact** + **enterprise standards**
+
+---
+
 ### 🔐 [Credit Card Validation System](https://github.com/mdaniliauskas/valida-bandeira-cartao)
 **Java | Object-Oriented Programming | Design Patterns**
 - Enterprise-grade credit card brand validation system
@@ -149,29 +178,35 @@
 ## 💼 Professional Experience
 
 ### 🏢 **Vivo / Telefônica** *(3+ years)*
-**Systems Analyst & Backend Developer**
-- **Complex corporate systems integration** across telecommunications infrastructure serving millions of users
-- **Business process analysis and modeling** for enterprise-level applications in telecom sector
-- **Agile team collaboration** in multidisciplinary development environments with international standards
-- **IT solutions development** for telecommunications and digital transformation initiatives
-- **Workflow optimization and process automation** driving operational efficiency and cost reduction
-- **Cross-functional collaboration** with product managers, UX designers, and infrastructure teams
+**Systems Analyst & Developer**
+*Progression: Intern → Junior/Analyst | Brazil's largest telecommunications operator*
+
+- **Critical IT systems** supporting national telecommunications infrastructure
+- **Significant incident reduction** through root cause analysis and automation implementations
+- **IT-Business bridge** - R&D projects coordination and cross-departmental alignment
+- **Internal consultant** for system improvements and new implementations
+- **Process optimization** using Lean Six Sigma methodologies and Python/SQL development
+- **Career transition**: Seeking return to Backend Development (Java/Python) roles
 
 ---
 
 ## 🌟 Impact & Achievements
 
 ### 📊 **Technical Metrics**
-- **57+ active public repositories** showcasing diverse technical skills and consistent development
-- **139 GitHub community followers** with professional engagement and knowledge sharing
-- **Pull Shark Achievement** - Recognition for consistent, high-quality contributions to projects
-- **Multi-language projects** demonstrating adaptability and comprehensive technical versatility
+- **🏆 Award-winning Capstone**: Acessibilidade Dev approved with distinction (FATEC)
+- **🤖 AI Innovation**: Specialized ChatGPT for accessibility (2023 pioneering work)
+- **👥 Technical leadership**: Squad of 5 developers using agile methodology
+- **57+ active public repositories** showcasing diverse technical skills
+- **139 GitHub community followers** with professional engagement
+- **Pull Shark Achievement** - Recognition for consistent, high-quality contributions
 
 ### 🎯 **Competitive Differentials**
-- **Demonstrable technical evolution**: From basic HTML to sophisticated full-stack architectures
-- **Fortune 500 experience**: 3+ years at leading telecommunications company with enterprise-scale systems
-- **Academic foundation**: PhD-level analytical thinking combined with hands-on technical specialization
-- **Global perspective**: International experience and multilingual communication in diverse tech environments
+- **🎓 Real academic project**: Capstone with social impact and enterprise quality
+- **♿ Social responsibility**: Technology for inclusion of people with disabilities
+- **🏗️ Robust architecture**: Scalable APIs with market-standard patterns
+- **🤝 Team collaboration**: Proven experience in collaborative development
+- **🌐 International experience**: Global perspective and multilingual communication
+- **📈 Demonstrable evolution**: From basic HTML to modern full-stack architectures
 
 ---
 
