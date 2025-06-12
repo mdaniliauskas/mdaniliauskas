@@ -141,13 +141,12 @@ Pessoas com deficiência enfrentam barreiras significativas ao navegar na web de
 
 ---
 
-## 📈 **Resultados & Impact**
+## 📈 **Resultados & Impactos**
 
 ### 🏆 **Reconhecimento Acadêmico**
 - ✅ **Aprovado com destaque** pela banca examinadora FATEC
 - ✅ **Inovação tecnológica** reconhecida pelos professores
 - ✅ **Projeto pioneiro** na integração ChatGPT + Acessibilidade (2023)
-- ✅ **Referência** para turmas seguintes
 
 ### 📊 **Métricas Técnicas**
 - **Lighthouse Score**: 95+ Performance, 90+ Acessibilidade
@@ -175,7 +174,7 @@ Pessoas com deficiência enfrentam barreiras significativas ao navegar na web de
 📂 **[acessibilidade-dev-back-end](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)**
 - Arquitetura REST API
 - Integração OpenAI GPT-3
-- Autenticação JWT
+- Auth0 Authentication
 - Database com Prisma ORM
 
 #### ⚛️ **Frontend Web**
@@ -204,6 +203,7 @@ Pessoas com deficiência enfrentam barreiras significativas ao navegar na web de
 ## 📄 **Licença**
 
 Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso** para a FATEC.  
+
 Todos os direitos reservados à equipe de desenvolvimento.
 
 Para uso acadêmico, entre em contato com a equipe.
