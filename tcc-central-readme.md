@@ -7,7 +7,7 @@
 ![Ano](https://img.shields.io/badge/Ano-2023-blue?style=for-the-badge)
 
 **🎓 Trabalho de Conclusão de Curso aprovado com destaque pela banca examinadora**  
-**🌟 Primeira integração ChatGPT + Acessibilidade Web no Brasil acadêmico**
+**🌟 Projeto pioneiro na integração ChatGPT + Acessibilidade Web**
 
 [![Backend](https://img.shields.io/badge/🔧%20Backend-Node.js%20API-339933?style=for-the-badge)](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
 [![Frontend](https://img.shields.io/badge/⚛️%20Frontend-React%20App-61DAFB?style=for-the-badge)](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)
@@ -30,33 +30,11 @@ Pessoas com deficiência enfrentam barreiras significativas ao navegar na web de
 - **📚 Conteúdo educativo** sobre desenvolvimento inclusivo
 
 ### 🌟 **Inovação Tecnológica**
-> **Projeto pioneiro** na integração ChatGPT especializado em acessibilidade web, antecipando tendências de IA assistiva no contexto acadêmico brasileiro (2023).
+> **Projeto pioneiro** na integração ChatGPT especializado em acessibilidade web, antecipando tendências de IA assistiva no contexto acadêmico e técnico brasileiro (2023).
 
 ---
 
 ## 🏗️ **Arquitetura do Sistema**
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[👤 Usuário] --> B[⚛️ Frontend React]
-    B --> C[🔧 Backend Node.js]
-    B --> D[💬 Chat Firebase]
-    C --> E[🤖 OpenAI GPT-3]
-    C --> F[🗄️ PostgreSQL]
-    D --> G[☁️ Firebase Realtime]
-    
-    style A fill:#e1f5fe
-    style B fill:#e3f2fd
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#f3e5f5
-    style G fill:#fff8e1
-```
-
-</div>
 
 ### 🔧 **Componentes Técnicos**
 
@@ -72,13 +50,13 @@ graph TB
 
 ### 🎓 **FATEC - Análise e Desenvolvimento de Sistemas**
 
-| Desenvolvedor | GitHub | Especialização |
-|--------------|--------|---------------|
-| **Marcelo Daniliauskas** | [@mdaniliauskas](https://github.com/mdaniliauskas) | Backend Architecture & IA Integration |
-| **Arthur Nascimento** | [@Arthur-cmd256](https://github.com/Arthur-cmd256) | Full-Stack Development |
-| **Luan Teixeira** | [@luanLTS](https://github.com/luanLTS) | UI/UX Design & Accessibility |
-| **Ranayna Alves de Oliveira** | [@Ranayna](https://github.com/Ranayna) | Frontend Development & Testing |
-| **Weslley Rodrigues** | [@weslleyrods](https://github.com/weslleyrods) | Database Design & DevOps |
+| Desenvolvedor | GitHub |
+|--------------|--------|
+| **Marcelo Daniliauskas** | [@mdaniliauskas](https://github.com/mdaniliauskas) |
+| **Arthur Nascimento** | [@Arthur-cmd256](https://github.com/Arthur-cmd256) |
+| **Luan Teixeira** | [@luanLTS](https://github.com/luanLTS) |
+| **Ranayna Alves de Oliveira** | [@Ranayna](https://github.com/Ranayna) |
+| **Weslley Rodrigues** | [@weslleyrods](https://github.com/weslleyrods) |
 
 ### 🎯 **Metodologia de Trabalho**
 - **Framework Ágil**: Sprints de 2 semanas
@@ -127,7 +105,7 @@ graph TB
 🟢 Prisma ORM
 🟢 PostgreSQL
 🟢 OpenAI API (GPT-3)
-🟢 JWT Authentication
+🟢 Auth0 Authentication
 🟢 Rate Limiting
 ```
 
@@ -216,79 +194,10 @@ graph TB
 
 ---
 
-## 🚀 **Como Executar**
+## 📞 **Contato**
 
-### 📋 **Pré-requisitos**
-```bash
-# Versões mínimas
-Node.js >= 18.0.0
-npm >= 8.0.0
-Git >= 2.30.0
-```
-
-### 🔧 **Backend Setup**
-```bash
-# Clone e configure o backend
-git clone https://github.com/mdaniliauskas/acessibilidade-dev-back-end.git
-cd acessibilidade-dev-back-end
-npm install
-cp .env.example .env
-# Configure suas variáveis de ambiente
-npm run dev
-```
-
-### ⚛️ **Frontend Setup**
-```bash
-# Clone e configure o frontend
-git clone https://github.com/mdaniliauskas/acessibilidade-dev-front-end.git
-cd acessibilidade-dev-front-end
-npm install
-npm run dev
-```
-
-### 💬 **Chat Setup**
-```bash
-# Clone e configure o chat
-git clone https://github.com/mdaniliauskas/Chat_Firebase.git
-cd Chat_Firebase
-npm install
-# Configure Firebase credentials
-npm start
-```
-
----
-
-## 🎯 **Próximos Passos**
-
-### 🔮 **Roadmap v2.0**
-- [ ] **Mobile App** React Native
-- [ ] **PWA** Progressive Web App
-- [ ] **API v2** GraphQL
-- [ ] **AI Voice** Assistente por voz
-- [ ] **Analytics** Dashboard completo
-
-### 🤝 **Contribuições**
-Este projeto está **aberto para contribuições** da comunidade:
-- 🐛 **Bug reports** via Issues
-- 💡 **Feature requests** bem-vindas
-- 🔧 **Pull requests** com melhorias
-- 📚 **Documentação** adicional
-
----
-
-## 📞 **Contato da Equipe**
-
-### 👨‍💻 **Líder Técnico**
-**Marcelo Daniliauskas** - [@mdaniliauskas](https://github.com/mdaniliauskas)
-- 📧 Email: marcelo.daniliauskas@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/mdaniliauskas](https://linkedin.com/in/mdaniliauskas)
-- 🎯 Especialização: Backend Development & IA Integration
-
-### 👥 **Time Completo**
-- **Arthur Nascimento** - [@Arthur-cmd256](https://github.com/Arthur-cmd256)
-- **Luan Teixeira** - [@luanLTS](https://github.com/luanLTS)
-- **Ranayna Alves de Oliveira** - [@Ranayna](https://github.com/Ranayna)
-- **Weslley Rodrigues** - [@weslleyrods](https://github.com/weslleyrods)
+**Marcelo Daniliauskas** - [@mdaniliauskas](https://github.com/mdaniliauskas)  
+📧 [marcelo.daniliauskas@gmail.com](mailto:marcelo.daniliauskas@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/mdaniliauskas)
 
 ---
 
