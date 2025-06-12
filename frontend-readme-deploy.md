@@ -1,11 +1,12 @@
 # Acessibilidade Dev - Frontend ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-> **TCC - Trabalho de Conclusão de Graduação | FATEC**  
-> Interface moderna e acessível para plataforma colaborativa de discussão sobre acessibilidade digital. Desenvolvido com React, focado em usabilidade e inclusão para pessoas com deficiência.
+> **🏆 TCC FATEC - Aprovado com Destaque | Interface 100% acessível com padrões WCAG 2.1**  
+> Frontend React responsivo e inclusivo para plataforma de acessibilidade digital desenvolvido em metodologia ágil.
 
+[![Projeto Principal](https://img.shields.io/badge/🏆%20Projeto%20Principal-TCC%20Completo-gold?style=flat-square)](https://github.com/mdaniliauskas/acessibilidade-dev-tcc)
 [![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://acessibilidade-dev-front-end.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://acessibilidade-dev-back-end.herokuapp.com)
-[![Organização](https://img.shields.io/badge/Organização-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/acessibilidadedev)
+[![Backend](https://img.shields.io/badge/Backend-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
+[![Chat](https://img.shields.io/badge/Chat-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://github.com/mdaniliauskas/Chat_Firebase)
 
 ## 🚀 Sobre o Projeto
 

@@ -1,11 +1,11 @@
 # Acessibilidade Dev - Chat Firebase ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-> **TCC - Trabalho de Conclusão de Graduação | FATEC**  
-> Sistema de chat em tempo real para discussões sobre acessibilidade digital. Implementação com Firebase Realtime Database, permitindo comunicação instantânea e inclusiva para a comunidade PcD.
+> **🏆 TCC FATEC - Aprovado com Destaque | Chat real-time inclusivo com Firebase**  
+> Sistema de comunicação instantânea para discussões sobre acessibilidade digital desenvolvido em metodologia ágil.
 
-[![Organização](https://img.shields.io/badge/Organização-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/acessibilidadedev)
-[![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://acessibilidade-dev-front-end.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://acessibilidade-dev-back-end.herokuapp.com)
+[![Projeto Principal](https://img.shields.io/badge/🏆%20Projeto%20Principal-TCC%20Completo-gold?style=flat-square)](https://github.com/mdaniliauskas/acessibilidade-dev-tcc)
+[![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)
+[![Backend](https://img.shields.io/badge/Backend-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
 
 ## 🚀 Sobre o Projeto
 

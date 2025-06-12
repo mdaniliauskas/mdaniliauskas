@@ -89,7 +89,7 @@
 #### 🔧 [Backend API - Node.js](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
 **Node.js | Express | Prisma ORM | PostgreSQL | OpenAI GPT-3**
 - **🤖 Chatbot IA pioneiro**: Integração ChatGPT especializado em acessibilidade (2023)
-- **🏗️ Arquitetura escalável**: API REST com clean architecture e padrões enterprise
+- **🏗️ Arquitetura escalável**: API REST com clean architecture e padrão profissional
 - **👥 Squad Development**: 5 desenvolvedores com metodologia ágil
 - **📊 Deploy production**: Heroku com otimizações performance
 
@@ -107,7 +107,7 @@
 - **📊 Analytics integrado**: Métricas de engajamento e performance
 - **♿ Acessibilidade total**: Chat inclusivo para pessoas com deficiência
 
-> **🎯 Diferencial**: Único TCC com **ChatGPT especializado** + **impacto social** + **padrão enterprise**
+> **🎯 Diferencial**: Projeto inovador com **ChatGPT especializado** + **impacto social** + **padrão profissional**
 
 ---
 
@@ -201,7 +201,7 @@
 - **Achievement Pull Shark** - Contribuições consistentes
 
 ### 🎯 **Diferenciais Competitivos**
-- **🎓 Projeto acadêmico real**: TCC com impacto social e qualidade enterprise
+- **🎓 Projeto acadêmico real**: TCC com impacto social e qualidade profissional
 - **♿ Responsabilidade social**: Tecnologia para inclusão de pessoas com deficiência
 - **🏗️ Arquitetura robusta**: APIs escaláveis com padrões de mercado
 - **🤝 Trabalho em equipe**: Experiência comprovada em desenvolvimento colaborativo

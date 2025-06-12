@@ -1,11 +1,12 @@
 # Acessibilidade Dev - Backend API ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-> **TCC - Trabalho de Conclusão de Graduação | FATEC**  
-> Plataforma digital colaborativa para discussão e compartilhamento de conhecimento sobre acessibilidade digital. API REST robusta desenvolvida com metodologia ágil em equipe multidisciplinar.
+> **🏆 TCC FATEC - Aprovado com Destaque | Projeto pioneiro ChatGPT + Acessibilidade**  
+> API REST robusta para plataforma de acessibilidade digital desenvolvida em squad multidisciplinar com metodologia ágil.
 
+[![Projeto Principal](https://img.shields.io/badge/🏆%20Projeto%20Principal-TCC%20Completo-gold?style=flat-square)](https://github.com/mdaniliauskas/acessibilidade-dev-tcc)
 [![Deploy](https://img.shields.io/badge/Deploy-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://acessibilidade-dev-back-end.herokuapp.com)
 [![Frontend](https://img.shields.io/badge/Frontend-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://acessibilidade-dev-front-end.vercel.app/)
-[![Organização](https://img.shields.io/badge/Organização-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/acessibilidadedev)
+[![Chat](https://img.shields.io/badge/Chat-Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)](https://github.com/mdaniliauskas/Chat_Firebase)
 
 ## 🚀 Sobre o Projeto
 
@@ -14,7 +15,7 @@ Este projeto nasceu da necessidade de democratizar o conhecimento sobre acessibi
 
 ### 💡 **Inovações Técnicas**
 - **🤖 Chatbot IA Pioneiro**: Integração com ChatGPT (2023) para tirar dúvidas sobre acessibilidade
-- **🏗️ Arquitetura Escalável**: API REST com padrões enterprise e clean architecture
+- **🏗️ Arquitetura Escalável**: API REST com padrão profissional e clean architecture
 - **👥 Desenvolvimento Colaborativo**: 5 desenvolvedores usando metodologias ágeis
 - **♿ Inclusão por Design**: Funcionalidades pensadas para pessoas com deficiência
 
