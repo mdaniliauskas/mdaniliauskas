@@ -22,7 +22,7 @@
 
 💼 **3+ anos na Vivo/Telefônica** desenvolvendo soluções de TI e telecomunicações  
 🎓 **Doutor pela USP** + Tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC)  
-🌎 **Multilíngue**: Português (nativo), Inglês (avançado), Espanhol (avançado), Francês (avançado)  
+🌎 **Multilíngue**: Português (nativo), Inglês (intermediário), Espanhol (avançado), Francês (avançado)  
 🏆 **Experiência internacional**: Canadá, Espanha, França e Portugal
 
 ### 💡 Meus Diferenciais
@@ -193,7 +193,7 @@
 ## 🌟 Impacto & Realizações
 
 ### 📊 **Métricas Técnicas**
-- **🏆 TCC Premiado**: Acessibilidade Dev aprovado com destaque (FATEC)
+- 🏆 **TCC com Destaque**: Acessibilidade Dev - forte reconhecimento pela banca examinadora (FATEC)
 - **🤖 Inovação IA**: ChatGPT especializado em acessibilidade (pioneirismo 2023)
 - **👥 Liderança técnica**: Squad de 5 desenvolvedores com metodologia ágil
 - **57+ repositórios** públicos ativos
