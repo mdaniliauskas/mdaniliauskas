@@ -2,26 +2,32 @@
 
 ## 🏆 **PROJETOS PRINCIPAIS (PARA PIN)**
 
-### 🥇 **1. Acessibilidade Dev - Backend API** 
-**🔗 Repositório**: `acessibilidade-dev-back-end`  
-**📋 Descrição**: API REST robusta para plataforma de acessibilidade digital (TCC FATEC)  
-**⚙️ Stack**: Node.js, Express, Prisma ORM, PostgreSQL, OpenAI GPT-3  
-**🎯 Destaque**: Projeto aprovado com destaque + ChatGPT especializado + arquitetura escalável  
-**📊 Status**: ⭐ **PRIORITY PIN** - Demonstra capacidade backend enterprise
+### 🥇 **1. Acessibilidade Dev - TCC Central** 
+**🔗 Repositório**: `acessibilidade-dev-tcc`  
+**📋 Descrição**: Hub central do projeto TCC com visão completa da plataforma  
+**⚙️ Stack**: Node.js + React + Firebase (Ecossistema completo)  
+**🎯 Destaque**: Projeto premiado + documentação profissional + equipe de 5 devs  
+**📊 Status**: ⭐ **PRIORITY PIN #1** - Apresentação completa do projeto
 
-### 🥈 **2. Acessibilidade Dev - Frontend**
+### 🥈 **2. Acessibilidade Dev - Backend API** 
+**🔗 Repositório**: `acessibilidade-dev-back-end`  
+**📋 Descrição**: API REST robusta para plataforma de acessibilidade digital  
+**⚙️ Stack**: Node.js, Express, Prisma ORM, PostgreSQL, OpenAI GPT-3  
+**🎯 Destaque**: ChatGPT especializado + arquitetura escalável + padrão profissional  
+**📊 Status**: ⭐ **PRIORITY PIN #2** - Demonstra capacidade backend
+
+### 🥉 **3. Acessibilidade Dev - Frontend**
 **🔗 Repositório**: `acessibilidade-dev-front-end`  
 **📋 Descrição**: Interface React moderna para plataforma de acessibilidade  
 **⚙️ Stack**: React, Vite, Chakra UI, React Router, Context API  
 **🎯 Destaque**: UX inclusivo + design system acessível + performance otimizada  
-**📊 Status**: ⭐ **PRIORITY PIN** - Mostra versatilidade full-stack
-
-### 🥉 **3. Chat Firebase - Real-time**
+**📊 Status**: ⭐ **PRIORITY PIN #3** - Mostra versatilidade full-stack
+### 🏅 **4. Chat Firebase - Real-time**
 **🔗 Repositório**: `Chat_Firebase`  
 **📋 Descrição**: Sistema de chat em tempo real para comunicação inclusiva  
 **⚙️ Stack**: React, Firebase Realtime Database, Context API  
 **🎯 Destaque**: Real-time + Firebase mastery + interface acessível  
-**📊 Status**: ⭐ **PRIORITY PIN** - Demonstra especialização em real-time
+**📊 Status**: ⭐ **PRIORITY PIN #4** - Demonstra especialização em real-time
 
 ### 🏅 **4. Sistema Bancário Java**
 **🔗 Repositório**: `BancoDigital_Java`  
