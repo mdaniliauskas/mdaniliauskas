@@ -21,7 +21,7 @@
 ## 🚀 Sobre mim
 
 💼 **Desenvolvedor Python focado em IA** com forte base em sistemas corporativos críticos (ex-Vivo).  
-🎓 **Doutor pela USP** + Tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC).  
+🎓 **Doutor pela USP (Sociololgia)** + Tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC).  
 🌎 **Multilíngue**: Português (nativo), Inglês (intermediário), Espanhol (avançado), Francês (avançado).  
 🏆 **Agnóstico em IA**: Experiência com GPT, Claude, Gemini, LLaMA e DeepSeek.
 
