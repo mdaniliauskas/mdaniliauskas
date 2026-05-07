@@ -1,237 +1,198 @@
-    # Hello, I'm Marcelo Daniliauskas! 👋
+# Hello, I'm Marcelo Daniliauskas! 👋
 
-    <div align="center">
+<div align="center">
 
-    [![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)](./README.md) [![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)](#)
+[![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)](./README.md) [![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)](#)
 
-    ![Banner](https://img.shields.io/badge/Back--End%20Developer-Professional-informational?style=for-the-badge&logo=github&logoColor=white&color=0A66C2)
-    ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge)
+![Banner](https://img.shields.io/badge/Python%20Developer-AI%20%26%20Agents-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge)
 
-    **Backend Developer passionate about building scalable, secure, and high-performance APIs**  
-    🎯 **Seeking opportunities to drive business growth through technology**
+**Python Developer focused on applied AI — intelligent agents, RAG, and multi-model integrations (LLMs)**  
+🎯 **I build systems that combine language models, retrieval pipelines, and agent orchestration to solve real-world problems.**
 
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaniliauskas)
-    [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.daniliauskas@gmail.com)
-    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdaniliauskas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaniliauskas)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.daniliauskas@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdaniliauskas)
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 🚀 About me
+## 🚀 About me
 
-    💼 **3+ years at Vivo/Telefônica** developing IT and telecommunications solutions  
-    🎓 **PhD from USP** + Systems Analysis and Development Technologist (FATEC)  
-    🌎 **Multilingual**: Portuguese (native), English (intermediate), Spanish (advanced), French (advanced)  
-    🏆 **International experience**: Canada, Spain, France, and Portugal
+💼 **Python Developer focused on AI** with a strong background in critical corporate systems (ex-Vivo).  
+🎓 **PhD from USP** + Systems Analysis and Development Technologist (FATEC).  
+🌎 **Multilingual**: Portuguese (native), English (intermediate), Spanish (advanced), French (advanced).  
+🏆 **AI Agnostic**: Practical experience with GPT, Claude, Gemini, LLaMA, and DeepSeek.
 
-    ### 💡 My Differentials
-    - **Solid corporate experience** in telecommunications and IT (3+ years at Vivo)
-    - **Strong academic background** with PhD and full-stack technologist degree
-    - **Demonstrable technical portfolio** with 57+ active repositories
-    - **Business vision** combined with technical excellence
-    - **Team collaboration** with squad projects and agile development
+### 💡 My Differentials
+- **Building Intelligent Systems:** Hands-on experience in agent orchestration (LangGraph) and production-ready RAG pipelines.
+- **Solid Corporate Background:** Real-world experience in automations, pipelines, and monitoring in high-complexity environments (Telecom).
+- **Unique Education:** A rare ability to combine critical thinking and academic research (PhD) with software development.
+- **Collaboration & AI:** Champion for the adoption of AI-assisted development tools like GitHub Copilot within engineering teams.
 
-    ---
+---
 
-    ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-    ### 🎯 **Backend (Specialty)**
-    <div align="left">
+### 🤖 **Artificial Intelligence & Data (Current Focus)**
+<div align="left">
 
-    ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6600?style=for-the-badge)
 
-    </div>
+</div>
 
-    ### 🗄️ **Database**
-    <div align="left">
+### 🎯 **Backend & Cloud**
+<div align="left">
 
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-    </div>
+</div>
 
-    ### 🌐 **Frontend & Mobile**
-    <div align="left">
+### 🗄️ **Database**
+<div align="left">
 
-    ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-    </div>
+</div>
 
-    ### ⚙️ **Tools & DevOps**
-    <div align="left">
+### ⚙️ **Tools & DevOps**
+<div align="left">
 
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 🏆 Featured Projects
+## 🏆 Featured Projects
 
-    ### 🌟 [Acessibilidade Dev - FATEC Capstone Project](https://github.com/acessibilidadedev) ⭐ **MAIN PROJECT**
-    **🏆 Capstone Project with Distinction: Acessibilidade Dev - grade 10 with recognition from examining board (FATEC)**
+### 🤖 [Resolve Aí — Multi-Agent RAG Chatbot](https://github.com/mdaniliauskas/resolve-ai) ⭐ **MAIN PROJECT (AI)**
+**Multi-agent system for consumer rights guidance, in production on Google Cloud Run**
+**Python | LangGraph | Gemini API | ChromaDB | FastAPI**
+- **🏗️ Architecture:** 4 specialized agents (classification, legal analysis, strategy, response) orchestrated via LangGraph.
+- **🧠 RAG Pipeline:** Integrated with the Brazilian Consumer Defense Code and STJ jurisprudence using embeddings and ChromaDB.
+- **📊 Results:** 90% accuracy on Golden Test Set; Cloud deployment with Gradio frontend.
+- **📖 Software Engineering:** Architecture Decision Records (ADRs), automated testing (unit and integration), and RAGAS evaluation.
 
-    #### 🔧 [Backend API - Node.js](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
-    **Node.js | Express | Prisma ORM | PostgreSQL | OpenAI GPT-3**
-    - **🤖 Pioneer AI Chatbot**: ChatGPT integration specialized in accessibility (2023)
-    - **🏗️ Scalable architecture**: REST API with clean architecture and professional standards
-    - **👥 Squad Development**: 5 developers using agile methodology
-    - **📊 Production deployment**: Heroku with performance optimizations
+---
 
-    #### ⚛️ [React Frontend - Inclusive Interface](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)  
-    **React | Vite | Chakra UI | Context API | WCAG 2.1**
-    - **♿ Inclusive UX**: 100% accessible interface following WCAG guidelines
-    - **🎨 Design System**: Reusable components and consistent theming
-    - **📱 Mobile-first**: Responsive optimization for all devices
-    - **⚡ Performance**: Lighthouse score 90+ in accessibility
-
-    #### 🔥 [Real-time Chat - Firebase](https://github.com/mdaniliauskas/Chat_Firebase)
-    **React | Firebase Realtime Database | Context API**
-    - **💬 Real-time communication**: Native WebSocket with Firebase
-    - **🛡️ Advanced security**: Rate limiting and content sanitization
-    - **📊 Integrated analytics**: Engagement and performance metrics
-    - **♿ Full accessibility**: Inclusive chat for people with disabilities
-
-    > **🎯 Differential**: Innovative project with **specialized ChatGPT** + **social impact** + **professional standards**
-
-    ---
-
-    ### 🔐 [Credit Card Validation System](https://github.com/mdaniliauskas/valida-bandeira-cartao)
-    **Java | Object-Oriented Programming | Design Patterns**
-    - Professional-grade credit card brand validation system
-    - Implementation using OOP principles and industry best practices
-    - Clean, documented, and maintainable codebase with robust architecture
-
-    ### 📚 [PostEduc - Educational Platform](https://github.com/mdaniliauskas/postEduc)
-    **Full-Stack | React + PHP + React Native**
-    - Collaborative project developed using squad methodology (RecodePro)
-    - Complete application ecosystem: React frontend, PHP backend, React Native mobile
-    - Modern educational platform with scalable architecture and user-centric design
-
-    ### 🏦 [Banking Systems Portfolio](https://github.com/mdaniliauskas/BancoDigital_Java)
-    **Java & Python | OOP | Software Architecture**
-    - Multiple implementations showcasing cross-language expertise (Java OOP / Python functional)
-    - Real banking operations simulation with proper business logic and security considerations
-    - Demonstrates technical evolution and mastery of design patterns across different paradigms
-
-    ### 🎮 [TcheGamesSwitch - Technical Evolution Showcase](https://github.com/mdaniliauskas/Projeto_TcheGamesSwitch_RecodePro_ReactJs_V7)
-    **HTML → CSS → JS → PHP → React → Node.js → MongoDB**
-    - **12 progressive versions** demonstrating complete application evolution
-    - Journey from static HTML to modern full-stack architecture
-    - Real-world learning progression with practical implementations and growing complexity
+### 🌟 [Acessibilidade Dev - FATEC Capstone Project](https://github.com/acessibilidadedev)
+**🏆 Capstone Project with Distinction: Grade 10 with recognition from examining board**
 
-    ### 📊 [MEAN Stack Book Management System](https://github.com/mdaniliauskas/paoo-exercicio2-mean-sistema-de-livros)
-    **MongoDB + Express + Angular + Node.js | TypeScript**
-    - Complete CRUD application built with industry-standard MEAN stack
-    - TypeScript implementation ensuring type safety and enhanced development experience
-    - Modern, scalable architecture following professional best practices
+#### 🔧 [Backend API - Node.js](https://github.com/mdaniliauskas/acessibilidade-dev-back-end)
+**Node.js | Express | Prisma ORM | PostgreSQL | OpenAI GPT-3**
+- **🤖 Pioneer AI Chatbot**: ChatGPT integration specialized in accessibility (2023).
+- **🏗️ Scalable architecture**: REST API with clean architecture and professional standards.
 
-    ---
+#### ⚛️ [React Frontend - Inclusive Interface](https://github.com/mdaniliauskas/acessibilidade-dev-front-end)  
+**React | Vite | Chakra UI | Context API | WCAG 2.1**
+- **♿ Inclusive UX**: 100% accessible interface following WCAG guidelines with 90+ Lighthouse score.
 
-    ## 📈 GitHub Analytics
+---
 
-    <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdaniliauskas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniliauskas&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
+### 🔐 [Credit Card Validation System](https://github.com/mdaniliauskas/valida-bandeira-cartao)
+**Java | Object-Oriented Programming | Design Patterns**
+- Professional-grade credit card brand validation system.
+- Implementation using OOP principles and industry best practices for clean code.
 
-    <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaniliauskas&theme=dracula" alt="GitHub Streak"/>
-    </div>
+### 🏦 [Banking Systems Portfolio](https://github.com/mdaniliauskas/BancoDigital_Java)
+**Java & Python | OOP | Software Architecture**
+- Real banking operations simulation with proper business logic.
+- Demonstrates technical evolution across different paradigms (Java and Python).
 
-    ---
+---
 
-    ## 🎓 Education & Certifications
+## 📈 GitHub Analytics
 
-    ### 🏛️ **Formal Education**
-    - **📖 PhD in Sociology of Education** - University of São Paulo (USP)
-    - **💻 Systems Analysis and Development Technologist** - FATEC
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdaniliauskas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniliauskas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-    ### 🏅 **Technical Specializations**
-    - **RecodePro** - Full-Stack Development Program
-    - **Digital Innovation One (DIO)** - Java, Python, Git/GitHub Specializations
-    - **Continuous Learning** - Bootcamps, online courses, and professional development
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaniliauskas&theme=dracula" alt="GitHub Streak"/>
+</div>
 
-    ### 🌍 **International Experience**
-    - **Canada** - Academic and professional experience with North American tech standards
-    - **Spain** - Professional experience in European technology markets
-    - **France** - Academic exchange and cultural immersion in French tech ecosystem
-    - **Portugal** - Professional and academic experience in Lusophone markets
+---
 
-    ---
+## 🎓 Education & Certifications
 
-    ## 💼 Professional Experience
+### 🤖 **Artificial Intelligence Specialization** *(Jul/2025 – Present)*
+Period of full-time dedication to applied AI, LLMs, and Intelligent Agents:
+- **AI Engineer Core Track** (Udemy/Ed Donner): LLM Engineering, RAG, QLoRA, Multi-Agent Systems.
+- **Generative AI with LLMs** (DeepLearning.AI + AWS): Transformer Architecture, Fine-Tuning.
+- **Google Cloud Arcade Brasil 2026**: Facilitator, achieved **31+ badges** in GenAI and Cloud infrastructure.
+- **Associate AI Engineer for Developers** (DataCamp / 2025).
 
-    ### 🏢 **Vivo / Telefônica** *(3+ years)*
-    **Systems Analyst & Developer**
-    *Progression: Intern → Junior/Analyst | Brazil's largest telecommunications operator*
+### 🏛️ **Formal Education**
+- **📖 PhD in Sociology of Education** - University of São Paulo (USP)
+- **💻 Systems Analysis and Development Technologist** - FATEC
 
-    - **Critical IT systems** supporting national telecommunications infrastructure
-    - **Significant incident reduction** through root cause analysis and automation implementations
-    - **IT-Business bridge** - R&D projects coordination and cross-departmental alignment
-    - **Internal consultant** for system improvements and new implementations
-    - **Process optimization** using Lean Six Sigma methodologies and Python/SQL development
-    - **Career transition**: Seeking return to Backend Development (Java/Python) roles
+---
 
-    ---
+## 💼 Professional Experience
 
-    ## 🌟 Impact & Achievements
+### 🔬 **AI Specialization — Independent Study & Projects** *(Jul/2025 – Present)*
+Focused on building systems based on generative AI:
+- Development and cloud deployment of RAG architectures and Multi-Agent workflows (Resolve Aí project).
+- Continuous research in prompt engineering, vectorization, and LLM evaluation (RAGAS).
 
-    ### 📊 **Technical Metrics**
-    - **🏆 Grade 10 Capstone**: Acessibilidade Dev with recognition from examining board (FATEC)
-    - **🤖 AI Innovation**: Specialized ChatGPT for accessibility (2023 pioneering work)
-    - **👥 Technical leadership**: Squad of 5 developers using agile methodology
-    - **57+ active public repositories** showcasing diverse technical skills
-    - **139 GitHub community followers** with professional engagement
-    - **Pull Shark Achievement** - Recognition for consistent, high-quality contributions
+### 🏢 **Vivo / Telefônica** *(2022 – 2025)*
+**Systems Analyst — OSS B2B Operations**
+*Brazil's largest telecommunications operator*
+- **Automation (Python):** Developed Python scripts for inventory divergence correction and automated pipelines.
+- **Artificial Intelligence:** Participated in the homologation of **Vivo GPT** (private OpenAI cluster) and led the adoption of **GitHub Copilot** within the team.
+- **Incident Reduction:** Direct contribution to a 70% reduction in the incident backlog (+1,000→300) through automation and proactive monitoring (Grafana/SQL/WebLogic).
 
-    ### 🎯 **Competitive Differentials**
-    - **🎓 Real academic project**: Capstone with social impact and professional quality
-    - **♿ Social responsibility**: Technology for inclusion of people with disabilities
-    - **🏗️ Robust architecture**: Scalable APIs with market-standard patterns
-    - **🤝 Team collaboration**: Proven experience in collaborative development
-    - **🌐 International experience**: Global perspective and multilingual communication
-    - **📈 Demonstrable evolution**: From basic HTML to modern full-stack architectures
+---
 
-    ---
+## 🌟 Impact & Achievements
 
-    ## 🤝 Let's Connect?
+### 🎯 **Competitive Differentials**
+- **🤖 Focus on Applied AI:** Building robust systems solving real business problems, beyond basic tutorials.
+- **🏗️ Robust Architecture:** Integrating artificial intelligence with solid Software Engineering principles.
+- **🤝 Corporate Background:** Accustomed to critical SLAs, complex incident resolution, and IT-Business alignment.
+- **♿ Purpose-Driven Projects:** Applying technology to generate social impact and inclusion (e.g., Acessibilidade Dev).
 
-    Always interested in **new opportunities**, **challenging projects**, and **technical collaborations** that drive innovation.
+---
 
-    ### 📫 **Direct Contact**
-    - 📧 **Email**: [marcelo.daniliauskas@gmail.com](mailto:marcelo.daniliauskas@gmail.com)
-    - 💼 **LinkedIn**: [linkedin.com/in/mdaniliauskas](https://www.linkedin.com/in/mdaniliauskas)
-    - 🐙 **GitHub**: [github.com/mdaniliauskas](https://github.com/mdaniliauskas)
+## 🤝 Let's Connect?
 
-    ### 💡 **What I Bring to Your Team**
-    - **Scalable and high-performance APIs** in Java/Python with professional reliability
-    - **Robust software architectures** focused on maintainability, security, and long-term scalability
-    - **Complex systems integration** experience with legacy and modern technology stacks
-    - **Product-minded development** combining technical excellence with business value creation
-    - **Effective cross-functional collaboration** in agile, diverse, and international teams
+I am open to **new opportunities**, **challenging projects in AI and Python**, and **technical collaborations**.
 
-    ---
+### 📫 **Direct Contact**
+- 📧 **Email**: [marcelo.daniliauskas@gmail.com](mailto:marcelo.daniliauskas@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/mdaniliauskas](https://www.linkedin.com/in/mdaniliauskas)
+- 🐙 **GitHub**: [github.com/mdaniliauskas](https://github.com/mdaniliauskas)
 
-    <div align="center">
+### 💡 **What I Bring to Your Team**
+- **High-precision Multi-Agent Systems** and RAG pipelines.
+- **Intelligent process automation** and data pipelines using Python.
+- **Scalable APIs in Python (FastAPI)** integrated with AI models.
+- **Analytical mindset** to translate complex business problems into elegant and performant solutions.
 
-    **"Transforming ideas into robust and scalable technological solutions"**
+---
 
-    ![Profile Views](https://komarev.com/ghpvc/?username=mdaniliauskas&color=0A66C2&style=for-the-badge)
+<div align="center">
 
-    </div>
+**"Transforming ideas into intelligent and scalable technological solutions"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdaniliauskas&color=0A66C2&style=for-the-badge)
+
+</div>
