@@ -21,7 +21,7 @@
 ## 🚀 About me
 
 💼 **Python Developer focused on AI** with a strong background in critical corporate systems (ex-Vivo).  
-🎓 **PhD from USP** + Systems Analysis and Development Technologist (FATEC).  
+🎓 **PhD from USP (Sociology)** + Systems Analysis and Development Technologist (FATEC).  
 🌎 **Multilingual**: Portuguese (native), English (intermediate), Spanish (advanced), French (advanced).  
 🏆 **AI Agnostic**: Practical experience with GPT, Claude, Gemini, LLaMA, and DeepSeek.
 
